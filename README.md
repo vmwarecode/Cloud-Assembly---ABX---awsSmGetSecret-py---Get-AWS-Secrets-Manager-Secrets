@@ -1,1 +1,0 @@
-# Cloud-Assembly---ABX---awsSmGetSecret-py---Get-AWS-Secrets-Manager-Secrets
